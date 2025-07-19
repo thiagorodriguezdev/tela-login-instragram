@@ -244,9 +244,16 @@ footer a {
   #container{
     width: 90%;
   }
+  .container-signup {
+    width: 90%;
+  }
   input[type="password"],
   input[type="text"],
   input[type="submit"] {
-    width: 80%;
+    width: 85%;
+  }
+
+  .cta-button {
+    width: 85%;
   }
 }
