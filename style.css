@@ -199,3 +199,23 @@ footer a {
   font-weight: bold;
   cursor: pointer;
 }
+
+.or-separator {
+  margin: 10px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.or-separator span {
+  color: #8e8e8e;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.or-separator .line {
+  width: 140px;
+  height: 1px;
+  background: #e6e6e6;
+}
